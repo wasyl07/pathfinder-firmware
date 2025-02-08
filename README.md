@@ -1,2 +1,0 @@
-# pathfinder-firmware
-pathfinder firmware

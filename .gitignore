@@ -33,3 +33,4 @@
 
 # STM32CubeIDE garbage
 /.metadata
+/build
